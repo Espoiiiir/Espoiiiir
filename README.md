@@ -1,12 +1,12 @@
 # Hi there, I'm Amel
-### Junior AI Engineer | Deep Learning Enthusiast | Lifelong Learner
+### AI/ML Engineer |  Lifelong Learner
 
 
 
 ---
 
 ### Current Role & Mission
-Currently working as a **Junior AI Engineer** at Dusens Research, where I focus onI am currently focused on building **autonomous ecosystems** where specialized agents collaborate to solve complex, real-world problems. My goal is to move beyond simple "chatbots" to building high-performance, low-latency AI workers.. 
+Currently working as a ** AI Engineer** at Dusens Research, where Iam currently focused on building **autonomous ecosystems** where specialized agents collaborate to solve complex, real-world problems. My goal is to move beyond simple "chatbots" to building high-performance, low-latency AI workers.. 
 
 I am in a "Rapid Growth" phase—dedicated to mastering the transition from research papers to production-ready AI systems.
 
@@ -42,8 +42,9 @@ I am in a "Rapid Growth" phase—dedicated to mastering the transition from rese
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/amel-azib?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/amel-azib) 
+
 
 > "The best way to predict the future is to build it." — Let's build something intelligent.
 
