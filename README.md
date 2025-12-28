@@ -30,11 +30,10 @@ I am in a "Rapid Growth" phase—dedicated to mastering the transition from rese
   </a>
 </p>
 
-###  AI Orchestration & High-Performance Compute
 <p align="left">
   <img src="https://img.shields.io/badge/Agno-FFD700?style=for-the-badge&logo=ai&logoColor=black" alt="Agno" />
   <img src="https://img.shields.io/badge/RunPod-611ad1?style=for-the-badge&logo=runpod&logoColor=white" alt="RunPod" />
-  <img src="https://img.shields.
+  <img src="https://img.shields. 
 
     
 ---
@@ -53,6 +52,8 @@ I am in a "Rapid Growth" phase—dedicated to mastering the transition from rese
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+
+
 ---
 
 
