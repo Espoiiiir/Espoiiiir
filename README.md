@@ -34,7 +34,6 @@ Currently working as an **AI Engineer** at **Dusens Research**, where I am focus
   <img src="https://img.shields.io/badge/Agno-FFD700?style=for-the-badge&logo=ai&logoColor=black" alt="Agno" />
   <img src="https://img.shields.io/badge/RunPod-611ad1?style=for-the-badge&logo=runpod&logoColor=white" alt="RunPod" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B" />
-  <img src="https://img.shields.io/badge/LangGraph-262626?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </p>
 
