@@ -41,9 +41,6 @@ I am in a "Rapid Growth" phase—dedicated to mastering the transition from rese
 
 
 ---
-
-
-
 ###  Connect with me
 
 <p align="left">
@@ -57,7 +54,7 @@ I am in a "Rapid Growth" phase—dedicated to mastering the transition from rese
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
-
+---
 
 
 > "The best way to predict the future is to build it." 
