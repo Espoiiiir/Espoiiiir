@@ -21,7 +21,6 @@ I am in a "Rapid Growth" phase—dedicated to mastering the transition from rese
 
 ---
 
-
 ###  Core Tech Stack & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,9 +35,9 @@ I am in a "Rapid Growth" phase—dedicated to mastering the transition from rese
   <img src="https://img.shields.io/badge/Agno-FFD700?style=for-the-badge&logo=ai&logoColor=black" alt="Agno" />
   <img src="https://img.shields.io/badge/RunPod-611ad1?style=for-the-badge&logo=runpod&logoColor=white" alt="RunPod" />
   <img src="https://img.shields.
+
+    
 ---
-
-
 
 ---
 ###  Connect with me
